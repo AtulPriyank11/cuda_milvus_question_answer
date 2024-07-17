@@ -1,0 +1,14 @@
+beautifulsoup4
+gensim
+rank_bm25
+scrapy==2.5.0
+pandas==1.2.4
+transformers==4.6.1
+torch==1.8.1
+pymilvus==2.1.0
+streamlit==0.82.0
+scikit-learn==0.24.2
+nltk==3.6.2
+sentence-transformers==2.2.0
+numpy==1.22.4
+scipy==1.6.3
