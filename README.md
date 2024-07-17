@@ -26,8 +26,8 @@ This project consists of a system designed for web crawling, data chunking, vect
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/AtulPriyank11/cuda_milvus_question_answer.git
+cd cuda_milvus_question_answer
 ```
 
 2. Create and Activate a Virtual Environment outside of the Repository folder
